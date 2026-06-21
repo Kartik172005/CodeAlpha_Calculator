@@ -1,36 +1,75 @@
-# CodeAlpha_Calculator
+# 🧮 CodeAlpha Calculator
 
-A sleek, modern, and responsive web-based Calculator built using HTML5, CSS3, and vanilla JavaScript as part of the Frontend Development Internship at CodeAlpha.
+A simple and responsive Calculator developed using HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
 
-## 🚀 Features
+## 📌 Project Overview
 
-- **Core Arithmetic Operations:** Supports addition (`+`), subtraction (`-`), multiplication (`×`), and division (`÷`).
-- **Real-Time Display:** A dual-line screen that clearly tracks both your previous operand/operator and your current real-time input.
-- **Error Handling:** Built-in validation to handle edge cases, such as preventing division by zero ("Error") or restricting multiple decimal points.
-- **Dynamic Layout:** Built using modern CSS Grid layouts with custom hover effects and micro-transitions for an enhanced user experience.
-- **Bonus Feature - Full Keyboard Support:** Allows users to execute complete calculations smoothly using their physical computer keyboard.
+This project performs basic arithmetic operations such as addition, subtraction, multiplication, and division through an interactive and user-friendly interface.
 
-## 🎹 Keyboard Controls
+## ✨ Features
 
-| Physical Key | Calculator Action |
-| :--- | :--- |
-| `0` - `9` / `.` | Appends Numbers or Decimals |
-| `+`, `-`, `*`, `/` | Arithmetic Operators |
-| `Enter` / `=` | Computes the expression |
-| `Backspace` | Deletes the last digit (`DEL`) |
-| `Escape` | Clears the entire workspace (`AC`) |
+- Addition (+)
+- Subtraction (-)
+- Multiplication (×)
+- Division (÷)
+- Clear Screen Function
+- Responsive Design
+- Clean and Modern User Interface
+- Real-Time Calculation
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
-* **HTML5:** Semantic structure for the calculator buttons and display screen elements.
-* **CSS3:** Custom styles leveraging CSS variables, a responsive layout via Flexbox/Grid, and smooth `linear-gradient` backgrounds.
-* **JavaScript (ES6):** Dynamic event Handling, state management, calculation logic, and event listeners for keyboard input.
+- HTML5
+- CSS3
+- JavaScript
 
 ## 📂 Project Structure
 
-```text
-CodeAlpha_Calculator/
+```
+Calculator/
 │
-├── index.html     # Structural layout and button distribution
-├── style.css      # Custom styling, grid system, and themes
-└── script.js     # Computational math engine and keyboard support
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🚀 How to Run
+
+1. Download or clone the repository.
+2. Open the project folder.
+3. Run `index.html` in any modern web browser.
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned:
+
+- HTML page structure and layouts
+- CSS styling and responsive design
+- JavaScript DOM manipulation
+- Event handling in JavaScript
+- Building interactive web applications
+
+## 📸 Project Screenshot
+
+Add your calculator screenshot here.
+
+## 👨‍💻 Author
+
+**Kartik Pundalik Gawade**
+
+Third Year B.E. Computer Engineering Student
+
+## 🏢 Internship
+
+CodeAlpha Frontend Development Internship
+
+## 🔗 GitHub Repository
+
+Repository Name:
+
+`CodeAlpha_Calculator`
+
+---
+
+⭐ If you like this project, feel free to star the repository.
